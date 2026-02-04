@@ -1,4 +1,9 @@
-# Hello, i"am...
+
+
+# I am nobody, and I don't want to be anybody!
+# Stay alive even if you are of no use to anyone!
+# Life is just like stopping by >>  ☕
+# Hello, i'am... 
 
 
 <div align="center">
@@ -10,7 +15,3 @@
   | |___| | |_) |  __/ | | (_| |         
    \____|_|_.__/ \___|_|  \__,_|         
 
-
-# Nobody
-# 
-#  Stay alive, even if it's useless!!!
